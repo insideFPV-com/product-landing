@@ -10,25 +10,25 @@ const Header = () => {
 
 				<nav className="flex gap:60">
 					<Link href="/">
-						<span className="text:none f:#FF0000:hover cursor:pointer">
+						<span className="text:none f:red:hover cursor:pointer">
 							All Products
 						</span>
 					</Link>
 
 					<Link href="/">
-						<span className="text:none f:#FF0000:hover cursor:pointer">
+						<span className="text:none f:red:hover cursor:pointer">
 							Blog
 						</span>
 					</Link>
 
 					<Link href="/">
-						<span className="text:none f:#FF0000:hover cursor:pointer">
+						<span className="text:none f:red:hover cursor:pointer">
 							About
 						</span>
 					</Link>
 
 					<Link href="/">
-						<span className="text:none f:#FF0000:hover cursor:pointer">
+						<span className="text:none f:red:hover cursor:pointer">
 							Contact
 						</span>
 					</Link>
